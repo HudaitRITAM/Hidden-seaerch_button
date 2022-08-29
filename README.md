@@ -9,6 +9,7 @@ There is a search button ,which type area is hidden
 <br>JavaScript
 <br>HTML
 <br>CSS
+<br>cdnjs - Font-awesome
 
 ### Output
 ![Alt text](output1.png?raw=true "landing page")
